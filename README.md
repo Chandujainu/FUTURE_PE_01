@@ -40,4 +40,4 @@ Beauty Salon
 Successfully created a complete AI-generated website copy that is clear, engaging, and ready for use on a business website.
 
 ## Author
-Your Name
+Chandu 
